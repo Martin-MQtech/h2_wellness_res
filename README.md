@@ -1,6 +1,6 @@
-# 2026 中国氢健康产业发展研究报告（中国篇）
+# 2026 中国氢健康产业发展研究报告
 
-> China Hydrogen Health Industry Research Report 2026 — China Chapter
+> China Hydrogen Health Industry Research Report 2026
 
 一个**持续生长**的产业研究项目。纸质与 PDF 只是某个时点的快照；本仓库承载的是不断迭代的在线版本、检索式、图源台账与修订记录。
 
